@@ -10,25 +10,12 @@ body {
 }
 
 h1 {
-	font-family: 'Avant Garde Medium', Helvetica, sans-serif;
 	margin: 50px;
-	text-shadow: 2px 2px #000000;
 }
 
 p {
-	font-size: 20px;
+	font-size: 30px;
 	margin: 50px;
-	text-shadow: 2px 2px #000000;
-}
-
-ul, ol {
-	margin: 50px;
-}
-
-li {
-	font-size: 20px;
-	text-shadow: 2px 2px #000000;
-	margin-top: 20px;
 }
 
 iframe {
